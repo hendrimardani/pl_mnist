@@ -1,1 +1,1 @@
-Example MNIST using pytorch lightning
+# Example Mnist using Pytorch Lightning
